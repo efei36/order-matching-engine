@@ -1,0 +1,8 @@
+Ticker,ID,IsMarket,IsBuy,Price,Time,Amount
+AAPL,1,false,false,20.30,901,100
+AAPL,2,false,false,20.25,903,100
+AAPL,3,false,false,20.30,905,200
+AAPL,4,false,true,20.15,906,100
+AAPL,5,false,true,20.20,908,200
+AAPL,6,false,true,20.15,909,200
+AAPL,7,false,true,20.35,910,250
