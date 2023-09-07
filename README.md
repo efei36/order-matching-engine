@@ -15,9 +15,7 @@ Pro-Rata algorithm:
 This program has been run and tested with the following. You will need these to emulate the development environment:
 ```
 C++17 and newer
-Python 3.10.11 and newer
 g++ 12.2.0 and newer
-If using an IDE, preferably VSCode version 1.81.1 and newer
 Windows 11
 ```
 
